@@ -13,6 +13,8 @@ Source code and algorithms for an autonomous maze-solving robot (Micromouse styl
 * **PID Control:** Closed-loop feedback system using TOF sensor data and motor encoders to keep the robot centered in corridors and perform accurate 90/180-degree turns.
 
 ## 📸 Media & Schematics
+<img width="1020" height="1020" alt="image" src="https://github.com/user-attachments/assets/ca550274-ad6b-4a1f-bcb9-a050de9837c1" />
+
 ## ⚙️ Setup & Configuration
 1. Open the project in your preferred IDE (Arduino IDE / PlatformIO).
 2. Install necessary libraries for the **VL53L0X** sensors.
